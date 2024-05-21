@@ -23,12 +23,11 @@ Streamline the shopping process from product browsing to checkout.
 Enhance user satisfaction through personalized features and responsive design.
 Technologies Used:
 
-Frontend: HTML, CSS, JavaScript, React.js (or other frontend frameworks)
-Backend: Node.js, Express.js (or other backend frameworks)
-Database: MongoDB (or other relational/non-relational databases)
+Frontend: HTML, CSS, JavaScript, React.js 
+Backend: PhP , MYSQL
+Database: MongoDB 
 Payment Gateway Integration: Stripe, PayPal, etc.
-Security: SSL/TLS encryption, HTTPS protocols
-Hosting: AWS, Heroku, etc.
+
 Conclusion:
 The Online Shopping System aims to revolutionize the way users shop online by providing a user-friendly interface, secure transactions, and a seamless shopping journey. With its robust features and scalable architecture, it promises to deliver a satisfying and secure online shopping experience for users.
 
